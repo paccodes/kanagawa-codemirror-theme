@@ -16,7 +16,7 @@
     "lotus"
   ],
   "author": "Pierre-Alain Castella",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@codemirror/language": "^6.9.0",
     "@codemirror/state": "^6.2.1",
